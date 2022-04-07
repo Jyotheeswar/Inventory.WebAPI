@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\Inventory.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\Inventory.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\Inventory.Service.csproj",
+        "projectName": "Inventory.Service",
+        "projectPath": "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\Inventory.Service.csproj",
+        "packagesPath": "C:\\Users\\jyotheeswar\\.nuget\\packages\\",
+        "outputPath": "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jyotheeswar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Land-Code-LLC/LandRecordApi/_packaging/LandRecord.Dtos/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RestEase": {
+              "target": "Package",
+              "version": "[1.5.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

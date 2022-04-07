@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "89SI6dQxAQuQUUc8kIBVjuORTyF89wAJi/rleoCmfVzvJkrBBbWLc8TZ0sK7T1mta7AoZHYOkL/nCuTZnEAViw==",
+  "success": true,
+  "projectFilePath": "C:\\J\\Amar Works\\API\\Inventory.Api\\Inventory.Service\\Inventory.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jyotheeswar\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\jyotheeswar\\.nuget\\packages\\restease\\1.5.5\\restease.1.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
